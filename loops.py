@@ -11,7 +11,7 @@ while current > 0:
     current -= 1
 
 # When the loop finishes, print the celebratory message
-print("Blast off! 🚀")
+print("Blast off!")
 
 # Multiplication Table Generator
 
